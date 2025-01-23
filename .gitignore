@@ -1,0 +1,13 @@
+.env
+m o d e l s / G _ A B . p t h 
+ 
+# Игнорировать виртуальное окружение
+venv/
+
+# Игнорировать кэш Python
+__pycache__/
+*.pyc
+
+style_transfer_clean/
+ 
+ 
